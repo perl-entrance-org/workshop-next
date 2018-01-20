@@ -19,13 +19,13 @@ Perl入学式はあくまで｢踏み台｣のようなものだと思ってい�
 
 ### オンラインサポート
 
-Perl入学式の情報については, 公式ウェブサイトで発信しています: http://perl-entrance.org/
-更に, Twitterアカウント[@Perl_Entrance](https://twitter.com/Perl_Entrance)では, 次回の開催日程などをアナウンスしています.
+Perl入学式の情報については, 公式ウェブサイトで発信しています: [http://perl-entrance.org/](http://perl-entrance.org/)
 
+更に, Twitterアカウント[@Perl_Entrance](https://twitter.com/Perl_Entrance)では, 次回の開催日程などをアナウンスしています.
 もし, 疑問に思ったこと, 質問したいことがあれば, サポーター陣がウォッチしているTwitterのハッシュタグ｢[#Perl入学式](https://twitter.com/hashtag/Perl%E5%85%A5%E5%AD%A6%E5%BC%8F?src=hash)｣を使ってツイートしてみてください.
 
 加えて, Perl入学式では[Slack](https://slack.com/)というチャットサービスを活用しています.
 Slackでは, 直接サポーター陣に質問をしたり, 参加者同士でコミュニケーションを取ることができます. 気軽に参加して, 質問や雑談に使って下さい.
 もしPerl入学式のSlackに参加したいのであれば, [Perl入学式 Slack招待フォーム](https://docs.google.com/forms/d/e/1FAIpQLScbWyg-cgcqilW7-BpKagRm2ldBhvwRBNr2N5eg3LHOK13FGw/viewform)から申請をしてください.
 
-また, Perl入学式の資料については[GitHub](https://github.com/)で管理しています: https://github.com/perl-entrance-org
+また, Perl入学式の資料については[GitHub](https://github.com/)で管理しています: [https://github.com/perl-entrance-org](https://github.com/perl-entrance-org)
