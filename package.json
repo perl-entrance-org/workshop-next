@@ -1,0 +1,14 @@
+{
+  "name": "workshop-2018",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "author": "Perl Entrance",
+  "license": "ISC"
+}
