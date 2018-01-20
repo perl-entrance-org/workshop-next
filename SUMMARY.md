@@ -2,6 +2,7 @@
 
 - [はじめに](docs/introduction.md)
 - 第1章 Perlとは?
+    - [Perl入学式について](docs/chapter1/perl-entrance.md)
     - [Perlの概要と歴史](docs/chapter1/overview.md)
     - Hello, world!
 - 第2章 Perlの変数
