@@ -34,6 +34,7 @@ Wandboxは, Perl以外にもC言語やPHPなど, 様々なプログラミング�
 ![](./image/wandbox04.png)
 
 これで, WandboxでPerlを実行する準備が出来ました.
+なお青矢印の｢Load template｣をクリックすると, Perlのサンプルコードが表示されます.
 
 ## Hello, world!
 

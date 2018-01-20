@@ -35,6 +35,12 @@ chomp($name);
 print $name;
 ```
 
+### 入力
+
+```
+Shibuya
+```
+
 ![](./image/sample2-2.png)
 
 ### 出力
@@ -43,3 +49,45 @@ print $name;
 Shibuya
 ```
 
+## 練習問題 2-3
+
+> 標準入力から0以外の整数を2つ読み込み, それらを四則演算(`+`, `-`, `*`. `/`)した結果を出力するコードを書いてみましょう
+
+### 例
+
+```perl
+use strict;
+use warnings;
+
+my $left = <STDIN>;
+chomp($left);
+
+my $right = <STDIN>;
+chomp($right);
+
+my $sum = $left + $right;
+my $sub = $left - $right;
+my $mul = $left * $right;
+my $div = $left / $right;
+
+print "$left + $right = $sum\n";
+print "$left - $right = $sub\n";
+print "$left * $right = $mul\n";
+print "$left / $right = $div\n";
+```
+
+### 入力
+
+```
+1
+2
+```
+
+### 出力
+
+```
+1 + 2 = 3
+1 - 2 = -1
+1 * 2 = 2
+1 / 2 = 0.5
+```
