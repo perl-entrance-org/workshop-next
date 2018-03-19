@@ -10,5 +10,5 @@
     "build": "gitbook build"
   },
   "author": "Perl Entrance",
-  "license": "ISC"
+  "license": "CC-BY-NC-ND-2.0"
 }
