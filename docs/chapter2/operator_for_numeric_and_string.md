@@ -1,4 +1,4 @@
-# 演算子
+# 数値と文字列のための演算子
 
 ## 数値のための演算子
 
@@ -165,7 +165,7 @@ print "Last year it was " . $last_year . ". Now it is " . $now . "\n";
 
 なお, 演算子の優先順位や, 左結合か右結合かなどについては, Perldocの`perlop`に記載されています([英語](http://search.cpan.org/~shay/perl-5.26.1/pod/perlop.pod) / [日本語](http://perldoc.jp/docs/perl/5.22.1/perlop.pod)).
 
-## 練習問題 2-3
+## 練習問題 2-4
 
 標準入力から0以外の整数を2つ読み込み, それらを四則演算(`+`, `-`, `*`. `/`)した結果を出力するコードを書いてみましょう
 

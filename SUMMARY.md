@@ -8,8 +8,9 @@
     - [回答例](docs/chapter1/sample.md)
 - 第2章 Perlの変数
     - [スカラー変数](docs/chapter2/scalar.md)
+    - [数値と文字列](docs/chapter2/numeric_and_string.md)
     - [標準入力](docs/chapter2/stdin.md)
-    - [数値/文字列のための演算子](docs/chapter2/operator_for_numeric_and_string.md)
+    - [数値と文字列のための演算子](docs/chapter2/operator_for_numeric_and_string.md)
     - [回答例](docs/chapter2/sample.md)
 - 第3章 条件分岐
     - 条件分岐
