@@ -41,6 +41,19 @@ Wandbox上で標準入力を利用する方法について解説します.
 
 Wandboxで, 標準入力(`<STDIN>`)を複数回使いたい時は, 次のようにしましょう.
 
+```perl
+use strict;
+use warnings;
+
+my $input1 = <STDIN>;
+chomp($input1);
+print $input1;
+
+my $input2 = <STDIN>;
+chomp($input2);
+print $input2;
+```
+
 ...TODO...
 
 ## 練習問題 2-2
