@@ -15,12 +15,12 @@ use warnings;
 
 my $foo = 4;
 my $bar = 2;
-my sum = $foo + $bar;  # 4 + 2 = 6
-my sub = $foo - $bar;  # 4 - 2 = 2
-my mul = $foo * $bar;  # 4 * 2 = 8
-my div = $foo / $bar;  # 4 / 2 = 2
-my mod = $foo % $bar;  # 4 % 2 = 0
-my exp = $foo ** $bar; # 4の2乗は 16
+my $sum = $foo + $bar;  # 4 + 2 = 6
+my $sub = $foo - $bar;  # 4 - 2 = 2
+my $mul = $foo * $bar;  # 4 * 2 = 8
+my $div = $foo / $bar;  # 4 / 2 = 2
+my $mod = $foo % $bar;  # 4 % 2 = 0
+my $exp = $foo ** $bar; # 4の2乗は 16
 ```
 
 このコードでは, 2つの変数`$foo`と`$bar`に数値を代入し, それらを使って`+`演算子で加算(足し算), `-`演算子で減算(引き算), `*`演算子で乗算(掛け算), `/`で除算(割り算), `%`演算子で剰余(左辺を右辺で割った余り), `**`演算子で冪乗(べき乗, 左辺の数値の右辺の数値乗)を計算しています.
